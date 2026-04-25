@@ -1,4 +1,4 @@
-# proxy_scope# ProxyScope
+# ProxyScope
 #### A curated tracker of trending AI and data visualization repositories, grouped by category and development activity. Content is continuously refined and updated on a biweekly basis.
 
 ![banner](banner.png)
