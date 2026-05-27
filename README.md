@@ -5,7 +5,7 @@ This list is subject to change and will be updated regularly.
 
 *Maintained at [bobpage0451/ai-trending-repos](https://github.com/bobpage0451/ai-trending-repos) • Last updated: 2026-05-27 (refreshed bi-weekly)*
 
-![banner](banner.png)
+![banner_grah](banner_graph.png)
 - [App orchestration layer](#app-orchestration-layer)
 - [RAG, memory, and knowledge layer](#rag-memory-and-knowledge-layer)
 - [Language models and foundation model layer](#language-models-and-foundation-model-layer)
